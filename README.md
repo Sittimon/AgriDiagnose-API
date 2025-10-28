@@ -6,7 +6,7 @@ This repository contains a FastAPI application that performs inference on corn l
 Files of interest
 -----------------
 - `api.py` - Main FastAPI application.
-- `best_jitter.pth` / `best_cosine.pth` - Pretrained PyTorch model(s) used for inference.
+- `best_jitter.pth` / `best_cosine.pth` - Pretrained PyTorch model(s) used for inference. (download is available at https://disk.yandex.com/d/BYixpO12d4KH0w)
 - `requirements.txt` - Python dependencies (trimmed to essentials for Docker builds).
 - `Dockerfile` - Dockerfile to build the API container.
 - `.env` - Optional environment file for sensitive keys (not included in repo).
